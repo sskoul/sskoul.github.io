@@ -85,7 +85,7 @@ author:
   bio              : ""
   location         : "Lausanne, Switzerland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Juo2Tk8AAAAJ&hl=el"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  dblp             : "https://dblp.org/pid/183/0979.html"
 
 
 # Reading Files
