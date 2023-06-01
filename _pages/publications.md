@@ -7,9 +7,7 @@ author_profile: true
 
 2023
 ======
-* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/paper1.pdf)
-
-        Ioannis Panageas, Luca Viano, Xiao Wang and Volkan Cevher, ICML 2023 (oral).
+* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/paper1.pdf)        Ioannis Panageas, Luca Viano, Xiao Wang and Volkan Cevher, ICML 2023 (oral).
 
 * [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/paper1.pdf) (COLT 2023)
   * joint work with Costis Daskalakis, Noah Golowich and Manolis Zampetakis.
