@@ -23,6 +23,4 @@ Academic Positions
 
 * 2021- Today: Research Assistant
   *  École Polytechnique Fédérale de Lausanne (EPFL)
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Volkan Cevher
