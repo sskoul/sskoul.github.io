@@ -7,17 +7,14 @@ author_profile: true
 
 2023
 ======
-* <em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em> (ICML 2023 oral)
+* <em><a href="`">`</p>emi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em> (ICML 2023 oral)
   * joint work with Ioannis Panageas, Luca Viano, Xiao Wang and Volkan Cevher.
-  * International Conference on Machine Learning
 
 * STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games (COLT 2023)
   * joint work with Costis Daskalakis, Noah Golowich and Manolis Zampetakis.
-  * Conference on Learning Theory
 
 * Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps (SOSA 2023)
   * joint work with Volkan Cevher, George Piliouras and Ryan Simm.
-  * Symposium on the Simplicity of Algorithms
 
 2022
 ======
