@@ -7,8 +7,9 @@ author_profile: true
 
 2023
 ======
-Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games (with Ioannis Anagnostides, Fivos Kalogiannis, Manolis Vlatakis and Stephen McAleer).
-EC 2023 [Arxiv]
+* Algorithms and Complexity for Computing Nash Equilibria in Adversarial Team Games
+  * (with Ioannis Anagnostides, Fivos Kalogiannis, Manolis Vlatakis and Stephen McAleer).
+  * EC 2023
 
 
 2022
