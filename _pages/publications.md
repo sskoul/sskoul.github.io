@@ -9,7 +9,7 @@ author_profile: true
 ======
 * Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees (ICML 2023 oral)
   * joint work with Ioannis Panageas, Luca Viano, Xiao Wang and Volkan Cevher.
-
+  * (ICML 2023 oral)
 
 * STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games (COLT 2023)
   * joint work with Costis Daskalakis, Noah Golowich and Manolis Zampetakis.
