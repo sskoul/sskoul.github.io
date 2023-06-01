@@ -11,7 +11,7 @@ author_profile: true
 
 * [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): Costis Daskalakis, Noah Golowich, Stratis Skoulakis and Manolis Zampetakis, **COLT 2023**
 
-* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</\em>](https://sskoul.github.io/files/contraction.pdf): Volkan Cevher, George Piliouras and Ryan Simm, **SOSA 2023**.
+* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps<\em>](https://sskoul.github.io/files/contraction.pdf): Volkan Cevher, George Piliouras and Ryan Simm, **SOSA 2023**.
 
 2022
 ======
