@@ -12,8 +12,7 @@ I am a Post-Doctoral researcher at Ecole Polytechnique de Lausanne hosted by Vol
 
 Research Interests
 ======
-My research lies at the intersection of Optimization, Machine Learning and Game Theory. I am
-interested in..
+My research interests lie at the intersection of game theory, theoretical computer science and machine learning. A big part of my research concerns the study of natural game-dynamics through the lens of convex optimization as well as the study of equilibrium-computation problems. Another part of my work concerns the design of online decision making algorithms by coupling optimization techniques with ideas of theoretical computer science. Furthermore, I am also interested in developing efficient methods (or providing lower bounds) for intriguing optimization settings arising in the context of machine learning. 
 
 
 
