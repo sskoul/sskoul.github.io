@@ -45,7 +45,7 @@ author_profile: true
 
 * [<em>Efficient Online Learning of Optimal Rankings: Dimensionality Reduction via Gradient Descent.</em>](https://sskoul.github.io/files/rankings.pdf): Dimitris Fotakis, Thanasis Lianeas, Stratis Skoulakis and Georgios Piliouras, **NeurIPS 2020**.
 
-* [<em>The Online Min-Sum Set Cover Problem.<\em>](https://sskoul.github.io/files/Online_Min_Sum.pdf): Dimitris Fotakis, Loukas Kavouras, Grigorios Koumoutsos, Stratis Skoulakis and Manolis Vardas, **ICALP 2020**.
+* [<em>The Online Min-Sum Set Cover Problem.</em>](https://sskoul.github.io/files/Online_Min_Sum.pdf): Dimitris Fotakis, Loukas Kavouras, Grigorios Koumoutsos, Stratis Skoulakis and Manolis Vardas, **ICALP 2020**.
 
 * [<em>Node-Max-Cut and the Complexity of Equilibrium in Linear Weighted Congestion Games.</em>](https://sskoul.github.io/files/node_max_cut.pdf): Dimitris Fotakis, Anthimos Vardis Kandiros, Thanasis Lianeas, Nikos Mouzakis, Panagiotis Patsilinakos and Stratis Skoulakis, **ICALP 2020**.
 
