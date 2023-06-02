@@ -32,6 +32,6 @@ Selected Publications
 
 * [<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf): Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis, **ICALP 2021**.
 
-* [<em>Node-Max-Cut and the Complexity of Equilibrium in Linear Weighted Congestion Games.<\em>](https://sskoul.github.io/files/node_max_cut.pdf): Dimitris Fotakis, Anthimos Vardis Kandiros, Thanasis Lianeas, Nikos Mouzakis, Panagiotis Patsilinakos and Stratis Skoulakis, **ICALP 2020**.
+* [<em>Node-Max-Cut and the Complexity of Equilibrium in Linear Weighted Congestion Games.</em>](https://sskoul.github.io/files/node_max_cut.pdf): Dimitris Fotakis, Anthimos Vardis Kandiros, Thanasis Lianeas, Nikos Mouzakis, Panagiotis Patsilinakos and Stratis Skoulakis, **ICALP 2020**.
 
-* [<em>Opinion Dynamics with Limited Information.<\em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf): Dimitris Fotakis, Vardis Kandiros, Vasilis Kontonis, and Stratis Skoulakis, **WINE 2018**
+* [<em>Opinion Dynamics with Limited Information.</em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf): Dimitris Fotakis, Vardis Kandiros, Vasilis Kontonis, and Stratis Skoulakis, **WINE 2018**
