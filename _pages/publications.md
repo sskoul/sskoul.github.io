@@ -24,7 +24,7 @@ author_profile: true
 2021
 ======
 
-* [<em>The complexity of constrained min-max optimization.</em>](https://sskoul.github.io/files/local_min_max.pdf): Constantinos Daskalakis, Stratis Skoulakis and Manolis Zampetakis, **STOC 2021**.
+* [<em>The Complexity of Constrained Min-Max Optimization.</em>](https://sskoul.github.io/files/local_min_max.pdf): Constantinos Daskalakis, Stratis Skoulakis and Manolis Zampetakis, **STOC 2021**.
 
 * [<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf): Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis, **ICALP 2021**.
 
