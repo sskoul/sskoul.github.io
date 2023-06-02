@@ -22,7 +22,7 @@ Selected Publications
 ======
 * [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (oral)**.
 
-[<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): Costis Daskalakis, Noah Golowich, Stratis Skoulakis and Manolis Zampetakis, **COLT 2023**
+* [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): Costis Daskalakis, Noah Golowich, Stratis Skoulakis and Manolis Zampetakis, **COLT 2023**
 
 * [<em>Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization</em>](https://sskoul.github.io/files/Adaspider.pdf) Ali Kavis, Kimon Antonakopoulos, Leello Tadesse Dadi and Volkan Cevher, **NeurIPS 2022**.
 
