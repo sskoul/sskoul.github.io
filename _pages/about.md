@@ -16,8 +16,6 @@ My research interests lie at the intersection of Algorithmic Game Theory, Optimi
 
 
 
-
-
 Selected Publications
 ======
 * [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (oral)**.
@@ -35,3 +33,7 @@ Selected Publications
 * [<em>Node-Max-Cut and the Complexity of Equilibrium in Linear Weighted Congestion Games.</em>](https://sskoul.github.io/files/node_max_cut.pdf): Dimitris Fotakis, Anthimos Vardis Kandiros, Thanasis Lianeas, Nikos Mouzakis, Panagiotis Patsilinakos and Stratis Skoulakis, **ICALP 2020**.
 
 * [<em>Opinion Dynamics with Limited Information.</em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf): Dimitris Fotakis, Vardis Kandiros, Vasilis Kontonis, and Stratis Skoulakis, **WINE 2018**
+
+Service
+======
+I have served as a Program Committee member in **AMMAS**,**IJCAI** and as reviewer in **NeurIPS**,**ICML**,**ICALP**,**WINE** and **STOC**.
