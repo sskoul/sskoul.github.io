@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stratis Skoulakis"
-  avatar           : "profile.png"
+  avatar           : "stratis.jpeg"
   bio              : ""
   location         : "Lausanne, Switzerland"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  dblp             : "https://dblp.org/pid/183/0979.html"
   dblp             : "https://dblp.org/pid/183/0979.html"
 
 
