@@ -24,10 +24,9 @@ Education
 
 Academic Positions
 ======
-* 2019 - 2021: Research Assistant
-  * Singapore University of Technology and Design (SUTD)
-  * Supervisor: Georgios Piliouras
 
-* 2021- Today: Research Assistant
-  *  École Polytechnique Fédérale de Lausanne (EPFL)
+* 2021- Today: Post-doctoral Researcher - École Polytechnique Fédérale de Lausanne (EPFL)
   * Supervisor: Volkan Cevher
+
+  * 2021- Today: Post-doctoral Researcher - Singapore University of Technology and Design (SUTD)
+    * Supervisor: Georgios Piliouras
