@@ -37,4 +37,4 @@ Selected Publications
 
 Service
 ======
-I have served as a member of the Program Committee in *AMMAS* and *IJCAI** as well as a reviewer in *NeurIPS*,*ICML*,*ICALP*,*SODA*,*ICLR*,*WINE* and *STOC*.
+I have served as a member of the Program Committee in *AMMAS* and *IJCAI* as well as a reviewer in *NeurIPS*,*ICML*,*ICALP*,*SODA*,*ICLR*,*WINE* and *STOC*.
