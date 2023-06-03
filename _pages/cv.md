@@ -30,3 +30,8 @@ Academic Positions
 
 * 2019 - 2021: Post-doc Researcher - Singapore University of Technology and Design (SUTD)
   * Supervisor: [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/)
+
+
+  Service
+  ======
+  I have served as a PC member of *IJCAI,AAMAS* and as a reviewer in *NeurIPS*,*ICML*,*ICALP*,*SODA*,*ICLR*,*WINE* and *STOC*.
