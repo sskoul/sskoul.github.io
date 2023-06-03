@@ -12,9 +12,7 @@ I am a post-doctoral researcher at  École Polytechnique Fédérale de Lausanne 
 
 Research Interests
 ======
-My research interests lie at the intersection of Algorithmic Game Theory, Optimization and Machine Learning. A part of my research concerns the study of game dynamics ideas of convex optimization. I am also interested in the design of online decision making algorithms by coupling convex optimization with theoretical computer science. Furthermore, I am also interested in developing efficient methods (or providing lower bounds) for intriguing optimization settings arising in the context of machine learning.
-
-
+My research interests lie at the intersection of Algorithmic Game Theory, Optimization and Machine Learning. A big part of my research concerns the analysis of learning dynamics in games as well as the design of online decision making algorithms. I am also interested in developing efficient methods (or providing lower bounds) for intriguing optimization settings arising in the context of machine learning.
 
 
 Selected Publications
