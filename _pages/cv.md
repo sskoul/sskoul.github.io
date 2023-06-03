@@ -28,5 +28,5 @@ Academic Positions
 * 2021- Today: Post-doctoral Researcher - École Polytechnique Fédérale de Lausanne (EPFL)
   * Supervisor: Volkan Cevher
 
-  * 2021- Today: Post-doctoral Researcher - Singapore University of Technology and Design (SUTD)
-    * Supervisor: Georgios Piliouras
+* 2021- Today: Post-doctoral Researcher - Singapore University of Technology and Design (SUTD)
+  * Supervisor: Georgios Piliouras
