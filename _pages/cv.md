@@ -14,7 +14,7 @@ You can also find my CV [<em>here</em>](https://sskoul.github.io/files/CV.pdf).
 Education
 ======
 * Ph.D in Algorithmic Game Theory, National Technical University of Athens, 2019
-  * Thesis: [<em>Natural and Efficient Opinion Formation Games through Convex Optimization</em>](https://sskoul.github.io/files/phd_thesis.pdf)
+  * Thesis: [<em>Natural and Efficient Opinion Dynamics through Convex Optimization</em>](https://sskoul.github.io/files/phd_thesis.pdf)
   * Supervisor: [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis)
 
 * Diploma in Electrical and Computer Engineering, National Technical University of Athens, 2014
