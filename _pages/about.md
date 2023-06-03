@@ -19,17 +19,17 @@ My research interests lie at the intersection of Algorithmic Game Theory, Optimi
 
 Selected Publications
 ======
-* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (oral)**.
+* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf) Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (oral)**.
 
-* [<em>Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization</em>](https://sskoul.github.io/files/Adaspider.pdf) Ali Kavis, Kimon Antonakopoulos, Leello Tadesse Dadi and Volkan Cevher, **NeurIPS 2022**.
+* [<em>Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization</em>](https://sskoul.github.io/files/Adaspider.pdf) Ali Kavis, Stratis Skoulakis, Kimon Antonakopoulos, Leello Tadesse Dadi and Volkan Cevher, **NeurIPS 2022**.
 
-* [<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf): George Piliouras and Ryan Simm, **NeurIPS 2022**.
+* [<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf) George Piliouras, Ryan Simm and Stratis Skoulakis **NeurIPS 2022**.
 
-* [<em>The complexity of constrained min-max optimization.</em>](https://sskoul.github.io/files/local_min_max.pdf): Constantinos Daskalakis, Stratis Skoulakis and Manolis Zampetakis, **STOC 2021**.
+* [<em>The complexity of constrained min-max optimization.</em>](https://sskoul.github.io/files/local_min_max.pdf) Constantinos Daskalakis, Stratis Skoulakis and Manolis Zampetakis, **STOC 2021**.
 
-* [<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf): Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis, **ICALP 2021**.
+* [<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf) Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis, **ICALP 2021**.
 
-* [<em>Opinion Dynamics with Limited Information.</em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf): Dimitris Fotakis, Vardis Kandiros, Vasilis Kontonis, and Stratis Skoulakis, **WINE 2018**
+* [<em>Opinion Dynamics with Limited Information.</em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf) Dimitris Fotakis, Vardis Kandiros, Vasilis Kontonis, and Stratis Skoulakis, **WINE 2018**
 
 Service
 ======
