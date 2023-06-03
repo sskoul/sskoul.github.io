@@ -19,7 +19,7 @@ author_profile: true
 
 * [<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf): George Piliouras and Ryan Simm, **NeurIPS 2022**.
 
-* [<em>Fast Convergence of Optimistic Gradient Ascent in Network Zero-Sum Extensive Form Games.<\em>](https://sskoul.github.io/files/EFGs.pdf): George Piliouras, Lillian Ratliff and Ryan Simm, **SAGT 2022**.
+* [<em>Fast Convergence of Optimistic Gradient Ascent in Network Zero-Sum Extensive Form Games.</em>](https://sskoul.github.io/files/EFGs.pdf): George Piliouras, Lillian Ratliff and Ryan Simm, **SAGT 2022**.
 
 2021
 ======
