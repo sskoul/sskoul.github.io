@@ -17,7 +17,7 @@ Education
   * Thesis: [<em>Natural and Efficient Opinion Dynamics through Convex Optimization</em>](https://sskoul.github.io/files/phd_thesis.pdf)
   * Supervisor: [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis)
 
-* MSc. in [<em>Logic, Algorithms and Computation</em>](http://mpla.math.uoa.gr/en/)  Algorithms, Logic and Computation Theory, National University of Athens, 2016
+* MSc. in [<em>Logic, Algorithms and Computation</em>](http://mpla.math.uoa.gr/en/), National University of Athens, 2016
 
 * Diploma in [<em>Electrical and Computer Engineering</em>](https://www.ece.ntua.gr/en), National Technical University of Athens, 2014
 
