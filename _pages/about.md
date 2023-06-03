@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at  École Polytechnique Fédérale de Lausanne ([<em>EPFL</em>](https://www.epfl.ch/en/)) hosted by [<em>Volkan Cevher</em>](https://people.epfl.ch/volkan.cevher?lang=en). Prior to that I was a post-doc at Singapore University of Technology and Design ([<em>SUTD</em>](https://www.sutd.edu.sg/))  hosted by [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/) and a PhD student at National Technical University of Athens ([<em>SUTD</em>](https://ntua.gr/en/)) under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/).
+I am a post-doctoral researcher at  École Polytechnique Fédérale de Lausanne ([<em>EPFL</em>](https://www.epfl.ch/en/)) hosted by [<em>Volkan Cevher</em>](https://people.epfl.ch/volkan.cevher?lang=en). I received my PhD at National Technical University of Athens ([<em>SUTD</em>](https://ntua.gr/en/)) under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/). Prior to that I was a post-doc at Singapore University of Technology and Design ([<em>SUTD</em>](https://www.sutd.edu.sg/))  hosted by [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/) and 
 
 Research Interests
 ======
@@ -28,7 +28,3 @@ Selected Publications
 * [<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf) Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis, **ICALP 2021**.
 
 * [<em>Opinion Dynamics with Limited Information.</em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf) Dimitris Fotakis, Vardis Kandiros, Vasilis Kontonis, and Stratis Skoulakis, **WINE 2018**
-
-Service
-======
-I have served as a PC member of *IJCAI,AAMAS* and as a reviewer in *NeurIPS*,*ICML*,*ICALP*,*SODA*,*ICLR*,*WINE* and *STOC*.
