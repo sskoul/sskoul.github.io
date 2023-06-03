@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at  École Polytechnique Fédérale de Lausanne (EPFL) hosted by [<em>Volkan Cevher</em>](https://people.epfl.ch/volkan.cevher?lang=en). Prior to that I was a post-doc at Singapore University of Technology and Design (SUTD)  hosted by [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/) and a PhD student at National Technical University of Athens under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/).
+I am a post-doctoral researcher at  École Polytechnique Fédérale de Lausanne ([<em>EPFL</em>](https://www.epfl.ch/en/)) hosted by [<em>Volkan Cevher</em>](https://people.epfl.ch/volkan.cevher?lang=en). Prior to that I was a post-doc at Singapore University of Technology and Design ([<em>SUTD</em>](https://www.sutd.edu.sg/))  hosted by [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/) and a PhD student at National Technical University of Athens ([<em>SUTD</em>](https://ntua.gr/en/)) under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/).
 
 Research Interests
 ======
