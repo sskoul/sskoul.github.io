@@ -11,15 +11,15 @@ author_profile: true
 
 * [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): Costis Daskalakis, Noah Golowich, Stratis Skoulakis and Manolis Zampetakis, **COLT 2023**
 
-* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): Volkan Cevher, George Piliouras and Ryan Simm, **SOSA 2023**.
+* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): Volkan Cevher, George Piliouras and Ryan Simm and Stratis Skoulakis, **SOSA 2023**.
 
 2022
 ======
-* [<em>Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization</em>](https://sskoul.github.io/files/Adaspider.pdf) Ali Kavis, Kimon Antonakopoulos, Leello Tadesse Dadi and Volkan Cevher, **NeurIPS 2022**.
+* [<em>Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization</em>](https://sskoul.github.io/files/Adaspider.pdf) Ali Kavis, Stratis Skoulakis, Kimon Antonakopoulos, Leello Tadesse Dadi and Volkan Cevher, **NeurIPS 2022**.
 
 * [<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf): George Piliouras and Ryan Simm, **NeurIPS 2022**.
 
-* [<em>Fast Convergence of Optimistic Gradient Ascent in Network Zero-Sum Extensive Form Games.</em>](https://sskoul.github.io/files/EFGs.pdf): George Piliouras, Lillian Ratliff and Ryan Simm, **SAGT 2022**.
+* [<em>Fast Convergence of Optimistic Gradient Ascent in Network Zero-Sum Extensive Form Games.</em>](https://sskoul.github.io/files/EFGs.pdf): George Piliouras, Lillian Ratliff and Ryan Simm, Stratis Skoulakis, **SAGT 2022**.
 
 2021
 ======
@@ -30,13 +30,13 @@ author_profile: true
 
 * [<em>Efficient Online Learning for Dynamic k-Clustering.</em>](https://sskoul.github.io/files/Learning_k_Centers.pdf): Dimitris Fotakis, Georgios Piliouras, Stratis Skoulakis, **ICML 2021**.
 
-* [<em>Online Learning in Periodic Zero-Sum Games.</em>](https://sskoul.github.io/files/periodic_ZS.pdf):Tanner Fiez, Ryann Sim, Georgios Piliouras and Lillian Ratliff, **NeurIPS 2021**.
+* [<em>Online Learning in Periodic Zero-Sum Games.</em>](https://sskoul.github.io/files/periodic_ZS.pdf):Tanner Fiez, Ryann Sim, Stratis Skoulakis, Georgios Piliouras and Lillian Ratliff, **NeurIPS 2021**.
 
 * [<em>Estimating the Number of Induced Subgraphs from Incomplete Data and Neighborhood Queries.</em>](https://sskoul.github.io/files/counting_triangles.pdf): Dimitris Fotakis, Thanasis Pittas, Stratis Skoulakis, **AAAI 2021**.
 
-* [<em>Evolutionary Game Theory Squared: Evolving Agents in Endogenously Evolving Zero-Sum Games.</em>](https://sskoul.github.io/files/evolutionary_game_theory.pdf) Tanner Fiez, Ryann Sim, Georgios Piliouras and Lillian J. Ratliff, **AAAI 2021**
+* [<em>Evolutionary Game Theory Squared: Evolving Agents in Endogenously Evolving Zero-Sum Games.</em>](https://sskoul.github.io/files/evolutionary_game_theory.pdf) Stratis Skoulakis ,Tanner Fiez, Ryann Sim, Georgios Piliouras and Lillian J. Ratliff, **AAAI 2021**
 
-* [<em>Dynamical analysis of the EIP-1559 Ethereum fee market.</em>](https://sskoul.github.io/files/EIP.pdf): Stefanos Leonardos, Barnabé Monnot, Daniël Reijsbergen and Georgios Piliouras, **AFT 2021**.
+* [<em>Dynamical analysis of the EIP-1559 Ethereum fee market.</em>](https://sskoul.github.io/files/EIP.pdf): Stefanos Leonardos, Barnabé Monnot, Daniël Reijsbergen, Stratis Skoulakis and Georgios Piliouras, **AFT 2021**.
 
 * [<em>Transaction Fees on a Honeymoon: Ethereum's EIP-1559 One Month Later.</em>](https://sskoul.github.io/files/honeymoon.pdf): Daniël Reijsbergen, Shyam Sridhar, Barnabé Monnot, Stefanos Leonardos, Stratis Skoulakis and Georgios Piliouras, **Blockchain 2021**.
 
