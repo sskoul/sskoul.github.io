@@ -10,6 +10,8 @@ author_profile: true
 
 * [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): Dimitris Christou, Stratis Skoulakis and Volkan Cevher **NeurIPS 2023 (\textcolor{red}{spotlight})**.
 
+<span style="color:blue">some *blue* text</span>
+
 * [<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): Volkan Cevher, Ashok Cutkosky, Ali Kavis, Georgios Piliouras, Stratis Skoulakis and Luca Viano **NeurIPS 2023 (\textcolor{red}{spotlight})**.
 
 * [<em>Exponential Lower Bounds for Fictitious Play in Potential Games</em>](https://sskoul.github.io/files/fictitious.pdf): Ioannis Panageas, Nikolas Patris, Stratis Skoulakis and Volkan Cevher  **NeurIPS 2023**.
