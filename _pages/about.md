@@ -16,9 +16,9 @@ My research interests lie at the intersection of Algorithmic Game Theory, Optimi
 
 News
 ======
-* 4 papers accepted to NeurIPS 2023, 2 with spotlight!
-* Our paper *Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees* was accepted accepted in ICML 2023 with Oral!
-* Our paper *STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games* was accepted in COLT 2023.
+* 4 papers accepted to NeurIPS 2023 (2 with spotlight).
+* [<em>One paper</em>](https://sskoul.github.io/files/STONR.pdf) accepted to COLT 2023.
+* [<em>one paper</em>](https://sskoul.github.io/files/congestion.pdf) to ICML 2023 (oral)
 
 
 Selected Publications
