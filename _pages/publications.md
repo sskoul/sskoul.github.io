@@ -8,18 +8,17 @@ author_profile: true
 2023
 ======
 
-* [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): Dimitris Christou, Stratis Skoulakis and Volkan Cevher **NeurIPS 2023 (<span style="color:red"> spotlight text</span>)**.
+* [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): Dimitris Christou, Stratis Skoulakis and Volkan Cevher **NeurIPS 2023 (<span style="color:red"> spotlight</span>)**.
 
 
-
-* [<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): Volkan Cevher, Ashok Cutkosky, Ali Kavis, Georgios Piliouras, Stratis Skoulakis and Luca Viano **NeurIPS 2023 (<span style="color:red"> spotlight text</span>)**.
+* [<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): Volkan Cevher, Ashok Cutkosky, Ali Kavis, Georgios Piliouras, Stratis Skoulakis and Luca Viano **NeurIPS 2023 (<span style="color:red"> spotlight</span>)**.
 
 * [<em>Exponential Lower Bounds for Fictitious Play in Potential Games</em>](https://sskoul.github.io/files/fictitious.pdf): Ioannis Panageas, Nikolas Patris, Stratis Skoulakis and Volkan Cevher  **NeurIPS 2023**.
 
 * [<em>Maximum independent set: Self-training through dynamic programming</em>](https://sskoul.github.io/files/MIS.pdf): Lorenzo Brusca, Lars Quaedvlieg, Stratis Skoulakis, Grigorios Chrysos and Volkan Cevher **NeurIPS 2023**.
 
 
-* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (<span style="color:red"> spotlight text</span>)**.
+* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (<span style="color:red"> spotlight</span>)**.
 
 * [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): Costis Daskalakis, Noah Golowich, Stratis Skoulakis and Manolis Zampetakis, **COLT 2023**
 
