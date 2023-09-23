@@ -16,9 +16,9 @@ My research interests lie at the intersection of Algorithmic Game Theory, Optimi
 
 News
 ======
-* 4 papers accepted to NeurIPS 2023 (\textcolor{red}{2 with spotlight}).
+* 4 papers accepted to NeurIPS 2023 (<span style="color:red"> 2 spotlight text</span>).
 * [<em>One paper</em>](https://sskoul.github.io/files/STONR.pdf) accepted to COLT 2023.
-* [<em>One paper</em>](https://sskoul.github.io/files/congestion.pdf) to ICML 2023 (\textcolor{red}{oral})
+* [<em>One paper</em>](https://sskoul.github.io/files/congestion.pdf) to ICML 2023 (<span style="color:red"> oral text</span>)
 
 
 Selected Publications
