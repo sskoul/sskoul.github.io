@@ -13,7 +13,7 @@ $^\star$ First author contibution, **<span style="color:purple;">$^\clubsuit$ Al
 * [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): D. Christou$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span> and V. Cevher, **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
 
 
-* $^\natural$[<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): V. Cevher, A. Cutkosky$^\star$, A. Kavis, G. Piliouras, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Luca Viano$^\star$, **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): V. Cevher, A. Cutkosky$^\star$, A. Kavis, G. Piliouras, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Luca Viano$^\star$, **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
 
 * [<em>Exponential Lower Bounds for Fictitious Play in Potential Games</em>](https://sskoul.github.io/files/fictitious.pdf): I. Panageas$^\star$, N. Patris$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span> and V. Cevher  **NeurIPS 2023**.
 
