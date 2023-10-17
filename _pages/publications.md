@@ -66,20 +66,20 @@ author_profile: true
 2019
 ======
 
-* **<span style="color:purple;">$^\clubsuit$ Alphabetic order</span>**[<em>Opinion Formation Games with Aggregation and Negative Influence</em>](https://sskoul.github.io/files/opinion_formation_negative_influence.pdf): M. Epitropou, D. Fotakis, M. Hoefer and <span style="color:blue;">S. Skoulakis</span>, **Theory of Computing Systems 2019**.
+* **<span style="color:purple;">$^\clubsuit$ </span>**[<em>Opinion Formation Games with Aggregation and Negative Influence</em>](https://sskoul.github.io/files/opinion_formation_negative_influence.pdf): M. Epitropou, D. Fotakis, M. Hoefer and <span style="color:blue;">S. Skoulakis</span>, **Theory of Computing Systems 2019**.
 
-* [<em>Reallocating Multiple Facilities on the Line.</em>](https://sskoul.github.io/files/reallocation.pdf): D. Fotakis, L. Kavouras, P. Kostopanagiotis, P. Lazos, <span style="color:blue;">S. Skoulakis</span> and N. Zarifis, **IJCAI 2019**
+* **<span style="color:purple;">$^\clubsuit$ </span>**[<em>Reallocating Multiple Facilities on the Line.</em>](https://sskoul.github.io/files/reallocation.pdf): D. Fotakis, L. Kavouras, P. Kostopanagiotis, P. Lazos, <span style="color:blue;">S. Skoulakis</span> and N. Zarifis, **IJCAI 2019**
 
 
 2018
 ======
 
-* **<span style="color:purple;">$^\clubsuit$ Alphabetic order</span>**[<em>Opinion Dynamics with Limited Information.</em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf): D. Fotakis, V. Kandiros, V. Kontonis and <span style="color:blue;">S. Skoulakis</span>, **WINE 2018**
+* **<span style="color:purple;">$^\clubsuit$ </span>**[<em>Opinion Dynamics with Limited Information.</em>](https://sskoul.github.io/files/opinion_dynamics_with_limited_information.pdf): D. Fotakis, V. Kandiros, V. Kontonis and <span style="color:blue;">S. Skoulakis</span>, **WINE 2018**
 
 2017
 ======
-* [<em>Opinion Formation Games with Aggregation and Negative Influence.</em>](https://sskoul.github.io/files/opinion_formation_negative_influence.pdf): M. Epitropou, D. Fotakis, Martin Hoefer and <span style="color:blue;">S. Skoulakis</span>, **SAGT 2017**.
+* **<span style="color:purple;">$^\clubsuit$ </span>**[<em>Opinion Formation Games with Aggregation and Negative Influence.</em>](https://sskoul.github.io/files/opinion_formation_negative_influence.pdf): M. Epitropou, D. Fotakis, Martin Hoefer and <span style="color:blue;">S. Skoulakis</span>, **SAGT 2017**.
 
 2016
 ======
-* **<span style="color:purple;">$^\clubsuit$ Alphabetic order</span>**[<em>Opinion Dynamics with Local Interactions.</em>](https://sskoul.github.io/files/opinion_dynamics_local_interactions.pdf): D. Fotakis, D. Palyvos-Giannas and <span style="color:blue;">S. Skoulakis</span>, **IJCAI 2016**.
+* **<span style="color:purple;">$^\clubsuit$ </span>**[<em>Opinion Dynamics with Local Interactions.</em>](https://sskoul.github.io/files/opinion_dynamics_local_interactions.pdf): D. Fotakis, D. Palyvos-Giannas and <span style="color:blue;">S. Skoulakis</span>, **IJCAI 2016**.
