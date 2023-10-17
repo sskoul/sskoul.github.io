@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-$^\star$ First author contibution, <span style="color:purple;">$^\natural$ Alphabetic order</span>
+$^\star$ First author contibution, **<span style="color:purple;">$^\clubsuit$ Alphabetic order</span>**
+
+**<span style="color:purple;">$^\clubsuit$</span>**
 
 2023
 ======
@@ -30,22 +32,22 @@ $^\star$ First author contibution, <span style="color:purple;">$^\natural$ Alpha
 ======
 * [<em>Adaptive Stochastic Variance Reduction for Non-convex Finite-Sum Minimization</em>](https://sskoul.github.io/files/Adaspider.pdf) A. Kavis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span>, Kimon Antonakopoulos, L. Dadi and V. Cevher, **NeurIPS 2022**.
 
-* $^\natural$[<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf): G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **NeurIPS 2022**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf): G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **NeurIPS 2022**.
 
-* $^\natural$[<em>Fast Convergence of Optimistic Gradient Ascent in Network Zero-Sum Extensive Form Games.</em>](https://sskoul.github.io/files/EFGs.pdf): G. Piliouras, L. Ratliff and R. Simm and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **SAGT 2022**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Fast Convergence of Optimistic Gradient Ascent in Network Zero-Sum Extensive Form Games.</em>](https://sskoul.github.io/files/EFGs.pdf): G. Piliouras, L. Ratliff and R. Simm and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **SAGT 2022**.
 
 2021
 ======
 
-* [<em>The Complexity of Constrained Min-Max Optimization.</em>](https://sskoul.github.io/files/local_min_max.pdf): C. Daskalakis, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Manolis Zampetakis, **STOC 2021**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>The Complexity of Constrained Min-Max Optimization.</em>](https://sskoul.github.io/files/local_min_max.pdf): C. Daskalakis, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Manolis Zampetakis, **STOC 2021**.
 
-* [<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf): Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **ICALP 2021**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf): Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **ICALP 2021**.
 
-* [<em>Efficient Online Learning for Dynamic k-Clustering.</em>](https://sskoul.github.io/files/Learning_k_Centers.pdf): Dimitris Fotakis, Georgios Piliouras and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **ICML 2021**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Efficient Online Learning for Dynamic k-Clustering.</em>](https://sskoul.github.io/files/Learning_k_Centers.pdf): Dimitris Fotakis, Georgios Piliouras and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **ICML 2021**.
 
 * [<em>Online Learning in Periodic Zero-Sum Games.</em>](https://sskoul.github.io/files/periodic_ZS.pdf):Tanner Fiez, Ryann Sim, <span style="color:blue;">S. Skoulakis$^\star$ </span>, Georgios Piliouras and Lillian Ratliff, **NeurIPS 2021**.
 
-* [<em>Estimating the Number of Induced Subgraphs from Incomplete Data and Neighborhood Queries.</em>](https://sskoul.github.io/files/counting_triangles.pdf): Dimitris Fotakis, Thanasis Pittas and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **AAAI 2021**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Estimating the Number of Induced Subgraphs from Incomplete Data and Neighborhood Queries.</em>](https://sskoul.github.io/files/counting_triangles.pdf): Dimitris Fotakis, Thanasis Pittas and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **AAAI 2021**.
 
 * [<em>Evolutionary Game Theory Squared: Evolving Agents in Endogenously Evolving Zero-Sum Games.</em>](https://sskoul.github.io/files/evolutionary_game_theory.pdf) <span style="color:blue;">S. Skoulakis$^\star$ </span>, Tanner Fiez, Ryann Sim, Georgios Piliouras and Lillian J. Ratliff, **AAAI 2021**
 
@@ -56,11 +58,11 @@ $^\star$ First author contibution, <span style="color:purple;">$^\natural$ Alpha
 2020
 ======
 
-* [<em>Efficient Online Learning of Optimal Rankings: Dimensionality Reduction via Gradient Descent.</em>](https://sskoul.github.io/files/rankings.pdf): Dimitris Fotakis, Thanasis Lianeas, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Georgios Piliouras, **NeurIPS 2020**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Efficient Online Learning of Optimal Rankings: Dimensionality Reduction via Gradient Descent.</em>](https://sskoul.github.io/files/rankings.pdf): Dimitris Fotakis, Thanasis Lianeas, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Georgios Piliouras, **NeurIPS 2020**.
 
-* [<em>The Online Min-Sum Set Cover Problem.</em>](https://sskoul.github.io/files/Online_Min_Sum.pdf): Dimitris Fotakis, Loukas Kavouras, Grigorios Koumoutsos, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Manolis Vardas, **ICALP 2020**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>The Online Min-Sum Set Cover Problem.</em>](https://sskoul.github.io/files/Online_Min_Sum.pdf): Dimitris Fotakis, Loukas Kavouras, Grigorios Koumoutsos, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Manolis Vardas, **ICALP 2020**.
 
-* [<em>Node-Max-Cut and the Complexity of Equilibrium in Linear Weighted Congestion Games.</em>](https://sskoul.github.io/files/node_max_cut.pdf): Dimitris Fotakis, Anthimos Vardis Kandiros, Thanasis Lianeas, Nikos Mouzakis, Panagiotis Patsilinakos and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **ICALP 2020**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Node-Max-Cut and the Complexity of Equilibrium in Linear Weighted Congestion Games.</em>](https://sskoul.github.io/files/node_max_cut.pdf): Dimitris Fotakis, Anthimos Vardis Kandiros, Thanasis Lianeas, Nikos Mouzakis, Panagiotis Patsilinakos and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **ICALP 2020**.
 
 
 2019
