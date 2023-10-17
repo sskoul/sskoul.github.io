@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-$^\star$ First author contibution, $^\natural$ Alphabetic order 
+$^\star$ First author contibution, <span style="color:purple;">$^\natural$ Alphabetic order</span>
 
 2023
 ======
