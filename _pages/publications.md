@@ -8,7 +8,7 @@ author_profile: true
 2023
 ======
 
-* [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): D. Christou, **S. Skoulakis$^\star$** and V. Cevher **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
+* [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): D. Christou, <span style="color:red;">S. Skoulakis$^\star$> </span>, and V. Cevher **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
 
 
 * [<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): Volkan Cevher, Ashok Cutkosky, Ali Kavis, Georgios Piliouras, Stratis Skoulakis and Luca Viano **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
