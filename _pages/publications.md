@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-$^\star$ First author contibution
+$^\star$ First author contibution, \textocolor{red}{$^\#$} Alphabetic order 
 
 2023
 ======
@@ -24,7 +24,7 @@ $^\star$ First author contibution
 
 * [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): C. Daskalakis, N. Golowich, <span style="color:blue;">S. Skoulakis$^\star$ </span> and M. Zampetakis, **COLT 2023**
 
-* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): V. Cevher, G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **SOSA 2023**.
+* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): V. Cevher, G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis </span>, **SOSA 2023**.
 
 2022
 ======
