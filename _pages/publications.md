@@ -15,16 +15,16 @@ $^\star$ First author contibution, **<span style="color:purple;">$^\clubsuit$ Al
 
 * $^\natural$[<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): V. Cevher, A. Cutkosky$^\star$, A. Kavis, G. Piliouras, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Luca Viano$^\star$, **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
 
-* [<em>Exponential Lower Bounds for Fictitious Play in Potential Games</em>](https://sskoul.github.io/files/fictitious.pdf): I. Panageas, N. Patris, <span style="color:blue;">S. Skoulakis$^\star$ </span> and V. Cevher  **NeurIPS 2023**.
+* [<em>Exponential Lower Bounds for Fictitious Play in Potential Games</em>](https://sskoul.github.io/files/fictitious.pdf): I. Panageas$^\star$, N. Patris$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span> and V. Cevher  **NeurIPS 2023**.
 
 * [<em>Maximum independent set: Self-training through dynamic programming</em>](https://sskoul.github.io/files/MIS.pdf): L. Brusca$^\star$, L. Quaedvlieg$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span>, G. Chrysos and V. Cevher, **NeurIPS 2023**.
 
 
 * [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): I. Panageas$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span>, L. Viano$^\star$, X. Wang and V. Cevher, **ICML 2023 (<span style="color:red">oral</span>)**.
 
-* **<span style="color:purple;">$^\clubsuit$ Alphabetic order</span>**[<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): C. Daskalakis, N. Golowich, <span style="color:blue;">S. Skoulakis$^\star$ </span> and M. Zampetakis, **COLT 2023**
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): C. Daskalakis, N. Golowich, <span style="color:blue;">S. Skoulakis$^\star$ </span> and M. Zampetakis, **COLT 2023**
 
-* **<span style="color:purple;">$^\clubsuit$ Alphabetic order</span>**[<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): V. Cevher, G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis </span>, **SOSA 2023**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): V. Cevher, G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis </span>, **SOSA 2023**.
 
 2022
 ======
