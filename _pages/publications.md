@@ -5,24 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+$^\star$ First author contibution
+
 2023
 ======
 
-* [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): D. Christou, <span style="color:red;">S. Skoulakis$^\star$> </span>, and V. Cevher **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
+* [<em>Efficient Online Clustering with Moving Costs</em>](https://sskoul.github.io/files/clustering.pdf): D. Christou$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span>, and V. Cevher **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
 
 
-* [<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): Volkan Cevher, Ashok Cutkosky, Ali Kavis, Georgios Piliouras, Stratis Skoulakis and Luca Viano **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
+* [<em>Alternation makes the adversary weaker in two-player games</em>](https://sskoul.github.io/files/alternation.pdf): V. Cevher, A. Cutkosky$^\star$, A. Kavis, G. Piliouras, <span style="color:blue;">S. Skoulakis$^\star$ </span> and Luca Viano$^\star$ **NeurIPS 2023 (<span style="color:red">spotlight</span>)**.
 
-* [<em>Exponential Lower Bounds for Fictitious Play in Potential Games</em>](https://sskoul.github.io/files/fictitious.pdf): Ioannis Panageas, Nikolas Patris, Stratis Skoulakis and Volkan Cevher  **NeurIPS 2023**.
+* [<em>Exponential Lower Bounds for Fictitious Play in Potential Games</em>](https://sskoul.github.io/files/fictitious.pdf): I. Panageas, N. Patris, <span style="color:blue;">S. Skoulakis$^\star$ </span> and V. Cevher  **NeurIPS 2023**.
 
-* [<em>Maximum independent set: Self-training through dynamic programming</em>](https://sskoul.github.io/files/MIS.pdf): Lorenzo Brusca, Lars Quaedvlieg, Stratis Skoulakis, Grigorios Chrysos and Volkan Cevher **NeurIPS 2023**.
+* [<em>Maximum independent set: Self-training through dynamic programming</em>](https://sskoul.github.io/files/MIS.pdf): L. Brusca, L. Quaedvlieg, <span style="color:blue;">S. Skoulakis$^\star$ </span>, G. Chrysos and V. Cevher **NeurIPS 2023**.
 
 
-* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (<span style="color:red">oral</span>)**.
+* [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): I. Panageas, <span style="color:blue;">S. Skoulakis$^\star$ </span>, L. Viano, X. Wang and V. Cevher, **ICML 2023 (<span style="color:red">oral</span>)**.
 
-* [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): Costis Daskalakis, Noah Golowich, Stratis Skoulakis and Manolis Zampetakis, **COLT 2023**
+* [<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): C. Daskalakis, N. Golowich, <span style="color:blue;">S. Skoulakis$^\star$ </span> and M. Zampetakis, **COLT 2023**
 
-* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): Volkan Cevher, George Piliouras and Ryan Simm and Stratis Skoulakis, **SOSA 2023**.
+* [<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): V. Cevher, G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis$^\star$ </span>, **SOSA 2023**.
 
 2022
 ======
