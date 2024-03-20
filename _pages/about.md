@@ -16,9 +16,9 @@ My research interests lie at the intersection of Algorithmic Game Theory, Optimi
 
 News
 ======
-*21 March: I am visiting UC Santa Cruz  
-*11 March: I am visiting Oxford University  
-*5 March: I am visiting Aarhus University  
+* 21 March: I am visiting UC Santa Cruz  
+* 11 March: I am visiting Oxford University  
+* 5 March: I am visiting Aarhus University  
 * 1 paper accepted to ICLR 2024.
 * 4 papers accepted to NeurIPS 2023 (<span style="color:red">2 spotlight</span>).
 * [<em>One paper</em>](https://sskoul.github.io/files/STONR.pdf) accepted to COLT 2023.
