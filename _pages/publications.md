@@ -7,6 +7,12 @@ author_profile: true
 
 **$^\star$ First author contibution**, **<span style="color:purple;">$^\clubsuit$ Alphabetic order</span>**
 
+2024
+======
+* [<em>Efficient Efficient Continual Finite-Sum Minimization</em>](https://sskoul.github.io/files/continual.pdf): I. Mavrothalassitis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$ </span>, L. Dadi and V. Cevher, **ICLR 2024**.
+
+
+
 2023
 ======
 
