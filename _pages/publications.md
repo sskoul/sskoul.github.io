@@ -9,7 +9,7 @@ author_profile: true
 
 2024
 ======
-* [<em>Efficient Efficient Continual Finite-Sum Minimization</em>](https://sskoul.github.io/files/continual.pdf): I. Mavrothalassitis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span>, L. Dadi and V. Cevher, **ICLR 2024**.
+* [<em>Efficient Efficient Continual Finite-Sum Minimization</em>](https://sskoul.github.io/files/continual.pdf): I. Mavrothalassitis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span>L. Dadi and V. Cevher, **ICLR 2024**.
 
 
 
