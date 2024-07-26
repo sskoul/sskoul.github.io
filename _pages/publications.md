@@ -28,7 +28,7 @@ author_profile: true
 
 * [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf): I. Panageas$^\star$, <span style="color:blue;">S. Skoulakis$^\star$</span>, L. Viano$^\star$, X. Wang and V. Cevher, **ICML 2023 (<span style="color:red">oral</span>)**.
 
-* **<span style="color:purple;">$^\clubsuit$</span>**[<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): C. Daskalakis, N. Golowich, <span style="color:blue;">S. Skoulakis$^\star$</span> and M. Zampetakis, **COLT 2023**
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games</em>](https://sskoul.github.io/files/STONR.pdf): C. Daskalakis, N. Golowich, <span style="color:blue;">S. Skoulakis</span> and M. Zampetakis, **COLT 2023**
 
 * **<span style="color:purple;">$^\clubsuit$</span>**[<em>Min-Max Optimization Made Simple: Approximating the Proximal Point Method via Contraction Maps</em>](https://sskoul.github.io/files/contraction.pdf): V. Cevher, G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis</span>, **SOSA 2023**.
 
@@ -45,7 +45,7 @@ author_profile: true
 
 * **<span style="color:purple;">$^\clubsuit$</span>**[<em>The Complexity of Constrained Min-Max Optimization.</em>](https://sskoul.github.io/files/local_min_max.pdf): C. Daskalakis, <span style="color:blue;">S. Skoulakis</span> and M. Zampetakis, **STOC 2021**.
 
-* **<span style="color:purple;">$^\clubsuit$</span>**[<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf): D. Fotakis, P. Kostopanagiotis, V. Nakos, G. Piliouras and <span style="color:blue;">S. Skoulakis$^\star$</span>, **ICALP 2021**.
+* **<span style="color:purple;">$^\clubsuit$</span>**[<em>On the Approximability of Multistage Min-Sum Set Cover.</em>](https://sskoul.github.io/files/MultiStage_Min_Sum.pdf): D. Fotakis, P. Kostopanagiotis, V. Nakos, G. Piliouras and <span style="color:blue;">S. Skoulakis</span>, **ICALP 2021**.
 
 * **<span style="color:purple;">$^\clubsuit$</span>**[<em>Efficient Online Learning for Dynamic k-Clustering.</em>](https://sskoul.github.io/files/Learning_k_Centers.pdf): D. Fotakis, G. Piliouras and <span style="color:blue;">S. Skoulakis</span>, **ICML 2021**.
 
