@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in the Department of Computer Science at Aarhus University, and a member of the Computational Complexity and Game Theory group. Previously, I was a postdoctoral researcher at École Polytechnique Fédérale de Lausanne(https://www.epfl.ch/en/) and [<em>Singapore University of Technology and Design</em>](https://www.sutd.edu.sg/). I received my PhD at [<em>National Technical University of Athens</em>](https://ntua.gr/en/) under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/)
+I am an Assistant Professor in the Department of Computer Science at Aarhus University, and a member of the Computational Complexity and Game Theory group. Previously, I was a postdoctoral researcher at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/) and [<em>Singapore University of Technology and Design</em>](https://www.sutd.edu.sg/). I received my PhD at [<em>National Technical University of Athens</em>](https://ntua.gr/en/) under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/)
 
 
 I am a post-doctoral researcher at  École Polytechnique Fédérale de Lausanne ([<em>EPFL</em>](https://www.epfl.ch/en/)) hosted by [<em>Volkan Cevher</em>](https://people.epfl.ch/volkan.cevher?lang=en). I received my PhD at National Technical University of Athens ([<em>NTUA</em>](https://ntua.gr/en/)) under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/). Prior to that I was a post-doc at Singapore University of Technology and Design ([<em>SUTD</em>](https://www.sutd.edu.sg/))  hosted by [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/).
