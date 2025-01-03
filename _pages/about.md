@@ -17,13 +17,13 @@ I am interested in the mathematical foundations of Game Theory, Machine Learning
 
 News
 ======
+* 1 papers accepted to WINE 2024
+* 2 papers accepted to ICML 2024
 * 21 March: I am visiting UC Santa Cruz  
 * 11 March: I am visiting Oxford University  
 * 5 March: I am visiting Aarhus University  
 * 1 paper accepted to ICLR 2024.
 * 4 papers accepted to NeurIPS 2023 (<span style="color:red">2 spotlight</span>).
-* [<em>One paper</em>](https://sskoul.github.io/files/STONR.pdf) accepted to COLT 2023.
-* [<em>One paper</em>](https://sskoul.github.io/files/congestion.pdf) to ICML 2023 (<span style="color:red">oral</span>)
 
 
 Selected Publications
