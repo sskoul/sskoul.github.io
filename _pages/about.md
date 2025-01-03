@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Computer Science at Aarhus Univ
 
 I am a post-doctoral researcher at  École Polytechnique Fédérale de Lausanne ([<em>EPFL</em>](https://www.epfl.ch/en/)) hosted by [<em>Volkan Cevher</em>](https://people.epfl.ch/volkan.cevher?lang=en). I received my PhD at National Technical University of Athens ([<em>NTUA</em>](https://ntua.gr/en/)) under the supervision of [<em>Dimitris Fotakis</em>](https://www.softlab.ntua.gr/~fotakis/). Prior to that I was a post-doc at Singapore University of Technology and Design ([<em>SUTD</em>](https://www.sutd.edu.sg/))  hosted by [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/).
 
-Research Interests
+Research
 ======
 My research interests lie at the intersection of Algorithmic Game Theory, Optimization and Machine Learning. A big part of my research concerns the analysis of learning dynamics in games as well as the design of online decision making algorithms. I am also interested in developing efficient methods (or providing lower bounds) for intriguing optimization settings arising in the context of machine learning.
 
