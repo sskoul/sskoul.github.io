@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science at [Aarhus University](https://international.au.dk/), and a member of the [Computational Complexity and Game Theory](https://cs.au.dk/research/computational-complexity-and-game-theory/) group. Before that, I was a postdoctoral researcher at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/) and [Singapore University of Technology and Design](https://www.sutd.edu.sg/). I received my PhD at [National Technical University of Athens](https://ntua.gr/en/) in algorithmic game theory. 
+I am an Assistant Professor in the Department of Computer Science at [Aarhus University](https://international.au.dk/), and a member of the [Computational Complexity and Game Theory](https://cs.au.dk/research/computational-complexity-and-game-theory/) group. Before that, I was a postdoctoral researcher at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/) and [Singapore University of Technology and Design](https://www.sutd.edu.sg/). I received my PhD at [National Technical University of Athens](https://ntua.gr/en/) in algorithmic game theory and theoretical computer science. 
 
 Research
 ======
