@@ -13,7 +13,7 @@ I am an Assistant Professor in the Department of Computer Science at [Aarhus Uni
 Research
 ======
 
-I am interested on the mathematical foundations of Game Theory, Machine Learning and Optimization.
+I am interested on the mathematical foundations of Game Theory, Machine Learning and Optimization. I am particularly interested in designing and analyzing decision-making algorithms in multi-agent strategic settings such as markets or traffic systems.  
 
 News
 ======
