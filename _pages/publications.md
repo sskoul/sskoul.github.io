@@ -11,11 +11,11 @@ author_profile: true
 ======
 * [<em>Efficient Efficient Continual Finite-Sum Minimization</em>](https://sskoul.github.io/files/continual.pdf): I. Mavrothalassitis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span>L. Dadi and V. Cevher, **ICLR 2024**.
 
-* [<em>Efficient Efficient Continual Finite-Sum Minimization</em>](https://sskoul.github.io/files/continual.pdf): I. Mavrothalassitis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span>L. Dadi and V. Cevher, **ICLR 2024**.
+* [<em>Learning to Remove Cuts in Integer Linear Programming</em>](https://sskoul.github.io/files/continual.pdf): P. Puigdemont$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span>G. Chrysos and V. Cevher, **ICML 2024**.
 
-* [<em>Efficient Efficient Continual Finite-Sum Minimization</em>](https://sskoul.github.io/files/continual.pdf): I. Mavrothalassitis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span>L. Dadi and V. Cevher, **ICLR 2024**.
+* [<em>Imitation Learning in Discounted Linear MDPs without exploration assumptions</em>](https://sskoul.github.io/files/continual.pdf): L. Viano$^\star$, <span style="color:blue;">S. Skoulakis, </span>and V. Cevher, **ICML 2024**.
 
-* [<em>Efficient Efficient Continual Finite-Sum Minimization</em>](https://sskoul.github.io/files/continual.pdf): I. Mavrothalassitis$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span>L. Dadi and V. Cevher, **ICLR 2024**.
+* [<em>Polynomial Convergence of Bandit No-Regret Dynamics in Congestion Games</em>](https://sskoul.github.io/files/continual.pdf): L. Dadi$^\star$, I. Panageas$^\star$, <span style="color:blue;"> S. Skoulakis$^\star$, </span>L. Viano and V. Cevher, **WINE 2024**.
 
 
 
