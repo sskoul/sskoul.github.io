@@ -12,7 +12,8 @@ I am an Assistant Professor in the Department of Computer Science at [Aarhus Uni
 
 Research
 ======
-My research interests lie at the intersection of Algorithmic Game Theory, Optimization and Machine Learning. A big part of my research concerns the analysis of learning dynamics in games as well as the design of online decision making algorithms. I am also interested in developing efficient methods (or providing lower bounds) for intriguing optimization settings arising in the context of machine learning.
+
+I am interested on the mathematical foundations of Game Theory, Machine Learning and Optimization.
 
 News
 ======
