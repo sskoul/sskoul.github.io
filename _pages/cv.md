@@ -25,12 +25,11 @@ Education
 Academic Positions
 ======
 
-* 2021 - Today: Post-doc Researcher - École Polytechnique Fédérale de Lausanne (EPFL)
+ 2024 - today: Assistant Professor - Aarhus University (AU)
+
+* 2021 - 2024: Postdoctoral Researcher - École Polytechnique Fédérale de Lausanne (EPFL)
   * Supervisor: [<em>Volkan Cevher</em>](https://people.epfl.ch/volkan.cevher?lang=en)
 
 * 2019 - 2021: Post-doc Researcher - Singapore University of Technology and Design (SUTD)
   * Supervisor: [<em>Georgios Piliouras</em>](https://people.sutd.edu.sg/~georgios/)
 
-Service
-======
-I have served as a PC member of *IJCAI*, *AAMAS* and as a reviewer in *NeurIPS*, *ICML*, *ICALP*, *SODA*, *ICLR*, *WINE* and *STOC*.
