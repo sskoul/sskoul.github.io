@@ -17,7 +17,7 @@ My research focuses on the mathematical foundations of Game Theory, Machine Lear
 
 News
 ======
-* 1 papers accepted to WINE 2024
+* 1 paper accepted to WINE 2024
 * 2 papers accepted to ICML 2024
 * 21 March: I am visiting UC Santa Cruz  
 * 11 March: I am visiting Oxford University  
