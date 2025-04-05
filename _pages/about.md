@@ -17,13 +17,8 @@ My research focuses on the mathematical foundations of Game Theory, Machine Lear
 
 News
 ======
-* 1 paper accepted to WINE 2024
+* 1 paper accepted to WINE 2024a
 * 2 papers accepted to ICML 2024
-* 21 March: I am visiting UC Santa Cruz  
-* 11 March: I am visiting Oxford University  
-* 5 March: I am visiting Aarhus University  
-* 1 paper accepted to ICLR 2024.
-* 4 papers accepted to NeurIPS 2023 (<span style="color:red">2 spotlight</span>).
 
 
 Selected Publications
