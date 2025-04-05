@@ -13,7 +13,7 @@ I am an Assistant Professor in the Department of Computer Science at [Aarhus Uni
 Research
 ======
 
-My research focuses on the mathematical foundations of Game Theory, Machine Learning, and Optimization. I am particularly interested in developing and analyzing decision-making algorithms for fundamental economic settings, such as auctions, markets, and traffic systems.
+My research focuses on the mathematical foundations of Game Theory, Machine Learning, and Optimization. I am particularly interested in understanding the collective behavior of machine learning algorithms in fundamental economic settings, such as auctions, markets, and traffic systems.
 
 News
 ======
