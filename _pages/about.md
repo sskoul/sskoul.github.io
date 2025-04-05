@@ -17,8 +17,7 @@ My research focuses on the mathematical foundations of Game Theory, Machine Lear
 
 News
 ======
-* 1 paper accepted to WINE 2024a
-* 2 papers accepted to ICML 2024
+* January 2025: I have received the [Villum Young Investigator Award](https://villumfonden.dk/en/news/millions-funding-young-researchers) (9 million DKK / 1.2 million euros) 
 
 
 Selected Publications
