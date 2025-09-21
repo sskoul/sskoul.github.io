@@ -30,7 +30,7 @@ Selected Publications
 * [<em>Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees</em>](https://sskoul.github.io/files/congestion.pdf) Ioannis Panageas, Stratis Skoulakis, Luca Viano, Xiao Wang and Volkan Cevher, **ICML 2023 (<span style="color:red">oral award</span>)**.
 
 
-* **<span style="color:purple;">$^\clubsuit$</span>**[<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf): G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis</span>, **NeurIPS 2022**.
+* <span style="color:purple;">$^\clubsuit$</span>**[<em>Beyond Time-Average Convergence: Near-Optimal Uncoupled Online Learning via Clairvoyant Multiplicative Weights Update</em>](https://sskoul.github.io/files/Clairvoyant.pdf): G. Piliouras and R. Simm and <span style="color:blue;">S. Skoulakis</span>, **NeurIPS 2022**.
 
 
 * [<em>Dynamical analysis of the EIP-1559 Ethereum fee market.</em>](https://sskoul.github.io/files/EIP.pdf): S. Leonardos$^\star$, B. Monnot$^\star$, D. Reijsbergen$^\star$, <span style="color:blue;">S. Skoulakis$^\star$</span> and Georgios Piliouras, **AFT 2021**.
