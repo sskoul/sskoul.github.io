@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Computer Science at [Aarhus Uni
 Research
 ======
 
-My research lies at the intersection of game theory, machine learning, and optimization. A big part of my research couples ideas of the above fields to understand dynamics in crucial settings such as markets, blockchain systems, and AI training (see, for example, [<em>our work</em>](https://sskoul.github.io/files/EIP.pdf) on Ethereum transaction fees). More recently, I have been developing efficient optimization methods for machine learning and exploring the application of deep learning to combinatorial optimization problems (see for example [<em>our work</em>](https://sskoul.github.io/files/MIS.pdf)). 
+My research lies at the intersection of game theory, machine learning, and optimization. A big part of my research couples ideas of the above fields to understand dynamics in crucial settings such as markets, blockchain systems, and AI training (see, for example, [<em>our work</em>](https://sskoul.github.io/files/EIP.pdf) on Ethereum transaction fees). More recently, I have been developing efficient optimization methods for machine learning and exploring the application of deep learning to combinatorial optimization problems. 
 
 
 Awards
