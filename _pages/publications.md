@@ -10,15 +10,15 @@ author_profile: true
 
 2025
 ======
-* [<em>Optimism Without Regularization: Constant Regret in Zero-Sum Games. </em>](https://sskoul.github.io/files/Optimistic_Fictitious_Play.pdf): ohn Lazarsfeld, Georgios Piliouras, Ryann Sim  <span style="color:blue;">S. Skoulakis, </span>, **NeurIPS 2025**.
+* [<em>Optimism Without Regularization: Constant Regret in Zero-Sum Games. </em>](https://sskoul.github.io/files/Optimistic_Fictitious_Play.pdf): John Lazarsfeld, Georgios Piliouras, Ryann Sim  <span style="color:blue;">S. Skoulakis, </span>, **NeurIPS 2025**.
 
 
-* [<em>Rethinking Pricing in Energy Markets: Pay-as-Bid vs Pay-as-Clear</em>](https://sskoul.github.io/files/Bid_vs_Clear.pdf): Ioannis Caragiannis, Zhile Jiang, <span style="color:blue;">S. Skoulakis, </span>, **WINE 2025**.
+* [<em>Rethinking Pricing in Energy Markets: Pay-as-Bid vs Pay-as-Clear</em>](https://sskoul.github.io/files/Bid_vs_Clear.pdf): Ioannis Caragiannis, Zhile Jiang, <span style="color:blue;">S. Skoulakis, </span> **WINE 2025**.
 
-* [<em>Continuous-Time Analysis of Heavy Ball Momentum in Min-Max Games.</em>](https://sskoul.github.io/files/continous_heavy_ball.pdf): Yi Feng$^\star$, Kaito Fujii, <span style="color:blue;">S. Skoulakis, </span>, Xiao Wang, Volkan Cevher, **ICML 2025**.
+* [<em>Continuous-Time Analysis of Heavy Ball Momentum in Min-Max Games.</em>](https://sskoul.github.io/files/continous_heavy_ball.pdf): Yi Feng$^\star$, Kaito Fujii, <span style="color:blue;">S. Skoulakis, </span> Xiao Wang, Volkan Cevher, **ICML 2025**.
 
 
-* [<em>Best of Both Worlds: Regret Minimization versus Minimax Play.</em>](https://sskoul.github.io/files/Best_of_Both): Adrian Müller, Jon Schneider, <span style="color:blue;">S. Skoulakis$^\star$, </span>, Luca Viano, Volkan Cevher, **ICML 2025**.
+* [<em>Best of Both Worlds: Regret Minimization versus Minimax Play.</em>](https://sskoul.github.io/files/Best_of_Both): Adrian Müller, Jon Schneider, <span style="color:blue;">S. Skoulakis$^\star$, </span> Luca Viano, Volkan Cevher, **ICML 2025**.
 
 2024
 ======
