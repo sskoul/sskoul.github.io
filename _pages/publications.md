@@ -18,7 +18,7 @@ author_profile: true
 * [<em>Continuous-Time Analysis of Heavy Ball Momentum in Min-Max Games.</em>](https://sskoul.github.io/files/continous_heavy_ball.pdf): Yi Feng$^\star$, Kaito Fujii, <span style="color:blue;">S. Skoulakis, </span> Xiao Wang, Volkan Cevher, **ICML 2025**.
 
 
-* [<em>Best of Both Worlds: Regret Minimization versus Minimax Play.</em>](https://sskoul.github.io/files/Best_of_Both): Adrian Müller, Jon Schneider, <span style="color:blue;">S. Skoulakis$^\star$, </span> Luca Viano, Volkan Cevher, **ICML 2025**.
+* [<em>Best of Both Worlds: Regret Minimization versus Minimax Play.</em>](https://sskoul.github.io/files/Best_of_Both): Adrian Müller$^\star$, Jon Schneider$^\star$, <span style="color:blue;">S. Skoulakis$^\star$, </span> Luca Viano$^\star$, Volkan Cevher, **ICML 2025**.
 
 2024
 ======
